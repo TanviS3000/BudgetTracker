@@ -1,7 +1,7 @@
 # BudgetTracker
 
 ## Introduction:
-"Mint: Budgeting and Expense Tracking" is a simple yet effective GUI-based application developed using Python's `tkinter` module. The app interfaces with a MySQL database to keep track of user expenses. With Mint, users can input their expenses under specific categories and then view the logged expenses.
+"Budgeting and Expense Tracking" is a simple yet effective GUI-based application developed using Python's `tkinter` module. The app interfaces with a MySQL database to keep track of user expenses. With Mint, users can input their expenses under specific categories and then view the logged expenses.
 
 ## Features:
 1. **Database Connection**: Connects to a MySQL database for persistent storage of expenses.
